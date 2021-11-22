@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stevewithoutajob And My real name is Harsha Teja.
+- 👋 Hi, I’m Harsha Teja.
 - 👀 I’m interested in Traveling.
 - 🌱 I’m currently learning Masters in CS at CSULB long beach.
 - 💞️ I’m looking to collaborate on Coding and Python Web scraping and more In future.
